@@ -1,6 +1,6 @@
 # My Dissertation Draft
 
-## Abstract
+## The Git Process
 
 1. Init repo
 2. Add/Edit files
