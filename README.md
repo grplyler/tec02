@@ -7,9 +7,6 @@
 3. Stage Changes
 4. Commit Changes
 5. Push Commits
-6. Remote User Makes Changes
-7. They need to commit and push
-8. I need to pull them
 
 
 ## First Time Setup in Git
